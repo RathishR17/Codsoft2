@@ -6,7 +6,13 @@
 2.Create to-do list application window
 3.Create application layout
 4.Define to do list functions
+
+
 #output Screenshot
+
+
 ![to1](https://github.com/RathishR17/Codsoft2/assets/102809065/1653daaa-776e-41d2-990d-4e1a3f0ed1bd)
+
+
 
 ![to2](https://github.com/RathishR17/Codsoft2/assets/102809065/0767617b-05c2-4644-9572-a661a41984c3)
